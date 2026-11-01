@@ -1,6 +1,6 @@
 # QuickClip Local 🎬
 
-**AI-Powered Local Video Clipping Tool**
+**AI-Powered Local Video Clipping Tool** 
 
 QuickClip Local is a Python-based video clipping application that automatically transforms long-form videos into short-form vertical clips suitable for platforms like YouTube Shorts, Instagram Reels, and TikTok.
 
