@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+!.env.example
+work/
+output/
+backups/
+app_backup.py
+app_before_*.py
+*.bak
+*.log
