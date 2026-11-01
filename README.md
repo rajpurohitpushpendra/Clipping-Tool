@@ -1,25 +1,3 @@
-## 📸 Application Screenshots
-
-### 1. QuickClip Dashboard
-![QuickClip Dashboard](screenshots/Quickclip Too.png)
-
-The main dashboard of QuickClip Local, where users can access the video clipping tool and start creating short-form videos.
-
-### 2. Copy Link
-![Copy Link](screenshots/Copylink.png)
-
-Users can paste a video URL to import content directly into the application for processing and automatic clip generation.
-
-### 3. Processing Status
-![Processing Status](screenshots/Status.png)
-
-Displays the video processing progress and current task status while the application analyzes the video and generates clips.
-
-### 4. Generated Clips
-![Generated Clips](screenshots/Generatedclips.png)
-
-Shows the generated short video clips, which users can preview and access after the processing is complete.
-
 # QuickClip Local 🎬
 
 **AI-Powered Local Video Clipping Tool**
@@ -43,7 +21,7 @@ It uses speech transcription and lightweight content-selection heuristics to ide
 
 ### 1. QuickClip Dashboard
 
-![QuickClip Dashboard](screenshots/Quickclip%20Tool.png)
+![QuickClip Dashboard](screenshots/QuickclipTool.png)
 
 The main dashboard of QuickClip Local, where users can access the video clipping tool and start creating short-form videos.
 
